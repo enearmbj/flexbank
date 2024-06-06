@@ -1,0 +1,81 @@
+.ok{
+    height: 50px;
+    width: 50px;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.fonti{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: gray;
+}
+.https{
+    color: grey;
+}
+.http{
+    height: 50px;
+    width: 50px
+}
+
+.fa-spotify {
+    height: 100px;
+    width: 100px;
+}
+.spotify{
+    height: 40px;
+    width:40px;
+}
+.netflix{
+    height: 50px;
+    width: 50px;
+}
+
+.netflixii {
+    display: block;
+    
+}
+
+
+
+#flexmode{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+#all {
+    display: flex;
+    align-items: center;
+    width: 20em;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid lightgray;
+  margin: 0;
+  border-radius: 20px;
+  
+}
+
+#flexmodespotify{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 20px;
+    width:20px;
+}
+
+#right{
+    display: flex;
+    align-items: center;
+}
+
+#bluebox{
+    display: flex;
+    background-color:lightblue;
+    height: 9em;
+    width: 15em;
+}
